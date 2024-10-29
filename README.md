@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   ---
 
 ### 📝 **Tech Blog**
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=for-the-badge&logo=tistory&logoColor=white)](https://develoyummer.tistory.com/)
+ [![velog Badge](https://img.shields.io/badge/Tech%20Blog-86c6f4?style=for-the-badge&logo=velog&logoColor=black)](https://velog.io/@wnguswn7/posts)
 
 <br>
 
