@@ -20,21 +20,17 @@ Here are some ideas to get you started:
 
 [//]: # ([![Solved.ac Profile]&#40;http://mazassumnida.wtf/api/v2/generate_badge?boj=wnguswn7&#41;]&#40;https://solved.ac/wnguswn7/&#41;)
 
-[//]: # (### 📱 **Contact**)
-
-[//]: # ([![Gmail Badge]&#40;https://img.shields.io/badge/GMail-FFFACD?style=for-the-badge&logo=gmail&#41;]&#40;mailto:57wnguswn57@gmail.com&#41;)
-
-[//]: # ()
-[//]: # (### 📝 **Tech Blog**)
-
-[//]: # ( [![velog Badge]&#40;https://img.shields.io/badge/Tech%20Blog-86c6f4?style=for-the-badge&logo=velog&logoColor=blue&#41;]&#40;https://velog.io/@wnguswn7/posts&#41;)
-
-
 ### <span style="font-size: 25px;">📱 **Contact**</span> &nbsp;&nbsp; | &nbsp;&nbsp; <span style="font-size: 25px;">📝 **Tech Blog**</span>
 
 [![Gmail Badge](https://img.shields.io/badge/GMail-FFFACD?style=for-the-badge&logo=gmail)](mailto:57wnguswn57@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![velog Badge](https://img.shields.io/badge/Tech%20Blog-86c6f4?style=for-the-badge&logo=velog&logoColor=blue)](https://velog.io/@wnguswn7/posts)
 <br>
+
+[//]: # (### 📱 **Contact**)
+[//]: # ([![Gmail Badge]&#40;https://img.shields.io/badge/GMail-FFFACD?style=for-the-badge&logo=gmail&#41;]&#40;mailto:57wnguswn57@gmail.com&#41;)
+
+[//]: # (### 📝 **Tech Blog**)
+[//]: # ( [![velog Badge]&#40;https://img.shields.io/badge/Tech%20Blog-86c6f4?style=for-the-badge&logo=velog&logoColor=blue&#41;]&#40;https://velog.io/@wnguswn7/posts&#41;)
 
 ### 🖥️ **Skills**
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
