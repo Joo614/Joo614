@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 [//]: # ([![Solved.ac Profile]&#40;http://mazassumnida.wtf/api/v2/generate_badge?boj=wnguswn7&#41;]&#40;https://solved.ac/wnguswn7/&#41;)
 
-### 📝 **Contact**
-[![Gmail Badge](https://img.shields.io/badge/Mail-ffeee8?style=for-the-badge&logo=gmail)](mailto:57wnguswn57@gmail.com)
+### 📱 **Contact**
+[![Gmail Badge](https://img.shields.io/badge/GMail-FFFACD?style=for-the-badge&logo=gmail)](mailto:57wnguswn57@gmail.com)
 
 <br>
 
 ### 📝 **Tech Blog**
- [![velog Badge](https://img.shields.io/badge/Tech%20Blog-86c6f4?style=for-the-badge&logo=velog&logoColor=black)](https://velog.io/@wnguswn7/posts)
+ [![velog Badge](https://img.shields.io/badge/Tech%20Blog-86c6f4?style=for-the-badge&logo=velog&logoColor=blue)](https://velog.io/@wnguswn7/posts)
 
 <br>
 
