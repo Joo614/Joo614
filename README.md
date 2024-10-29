@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joo614&show_icons=true&theme={theme})](https://github.com/Joo614/github-readme-stats)
+<div style="text-align: right;">
+    <a href="https://github.com/Joo614/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Joo614&show_icons=true&theme=default" alt="Anurag's github stats">
+    </a>
+</div>
 
 [//]: # ([![Solved.ac Profile]&#40;http://mazassumnida.wtf/api/v2/generate_badge?boj=wnguswn7&#41;]&#40;https://solved.ac/wnguswn7/&#41;)
-
-  ---
 
 ### 📝 **Tech Blog**
  [![velog Badge](https://img.shields.io/badge/Tech%20Blog-86c6f4?style=for-the-badge&logo=velog&logoColor=black)](https://velog.io/@wnguswn7/posts)
