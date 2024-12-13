@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joo614&show_icons=true&theme={theme})](https://github.com/Joo614/github-readme-stats)
+
+[//]: # ([![Anurag's github stats]&#40;https://github-readme-stats.vercel.app/api?username=Joo614&show_icons=true&theme={theme}&#41;]&#40;https://github.com/Joo614/github-readme-stats&#41;)
 
 [//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Joo614&layout=compact&#41;)
 
 [//]: # ([![Solved.ac Profile]&#40;http://mazassumnida.wtf/api/v2/generate_badge?boj=wnguswn7&#41;]&#40;https://solved.ac/wnguswn7/&#41;)
 
-### <span style="font-size: 25px;">📱 **Contact**</span> &nbsp;&nbsp; | &nbsp;&nbsp; <span style="font-size: 25px;">📝 **Tech Blog**</span>
+### <span style="font-size: 18px;">📱 **Contact**</span> &nbsp; | &nbsp; <span style="font-size: 18px;">📝 **Tech Blog**</span>
 
 [![Gmail Badge](https://img.shields.io/badge/GMail-FFFACD?style=for-the-badge&logo=gmail)](mailto:57wnguswn57@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![velog Badge](https://img.shields.io/badge/Tech%20Blog-86c6f4?style=for-the-badge&logo=velog&logoColor=blue)](https://velog.io/@wnguswn7/posts)
